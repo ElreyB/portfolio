@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "elrey portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElreyB/portfolio.git"
+  },
+  "author": "Elrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElreyB/portfolio/issues"
+  },
+  "homepage": "https://github.com/ElreyB/portfolio#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
